@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="6b52fac3-4f57-11e9-8a71-0dc1bad01b6f">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="6b52fac5-4f57-11e9-8a71-0dc1bad01b6f" type="resource" guid="26066078-4f54-11e9-8a71-0dc1bad01b6f" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="6b5544b6-4f57-11e9-8a71-0dc1bad01b6f" type="literal">boolean</object>
+  </predicate>
+</resource>
+
