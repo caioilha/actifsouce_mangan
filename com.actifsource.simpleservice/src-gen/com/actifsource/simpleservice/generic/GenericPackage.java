@@ -32,4 +32,4 @@ public class GenericPackage {
   }
   
 }
-/* Actifsource ID=[c1a07b92-fc09-11e0-b756-0dc1d96a76cb,com.actifsource.simpleservice.generic,EGoXwhvnVQ2oc3TTdKNYAG9M1Yg=] */
+/* Actifsource ID=[c1a07b92-fc09-11e0-b756-0dc1d96a76cb,com.actifsource.simpleservice.generic,YytSlnaA+xSlnUHYJ7AtWq7i70o=] */
